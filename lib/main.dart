@@ -9,7 +9,7 @@ import 'form.dart';
 import 'running_gear.dart';
 import 'apiCall.dart';
 import 'dashboard.dart';
-//import 'ar_screen.dart';
+import 'ar_screen.dart';
 void main() {
   runApp(MyApp());
 }
